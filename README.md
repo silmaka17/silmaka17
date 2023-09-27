@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋
 
-<!--
-**silmaka17/silmaka17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Karolina da Silva
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https;//www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Infelizmente não consigo traduzir a pagina
+- 
+-  Viver pra mim é Cristo
+-  
+-  @mariakarolh
+
+
+
+![](https://github.com/silmaka17/silmaka17/assets/145611467/f8f65821-5094-46cc-80de-d7619559476e))
+
+
